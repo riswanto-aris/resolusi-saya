@@ -4,6 +4,7 @@ Resolusi Saya: 2025
 - 1 minggu mengulang css
 - 2 minggu belajar javascript
 Selanjutnya yang saya akn pelajari:
+- jaringan dan ip address
 - PHP
 - Database
 - Python
