@@ -6,5 +6,6 @@ Resolusi Saya: 2025
 Selanjutnya yang saya akn pelajari:
 - jaringan dan ip address
 - PHP
+- MySql
 - Database
 - Python
