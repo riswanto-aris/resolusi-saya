@@ -9,3 +9,4 @@ Selanjutnya yang saya akn pelajari:
 - MySql
 - Database
 - Python
+- dasar struktur data
