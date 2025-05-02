@@ -1,7 +1,7 @@
 Resolusi Saya: 2025
 - 1 minggu belajar git dan github
-- 1 minggu mengulang html
-- 1 minggu mengulang css
+- 1 minggu mengulang html5
+- 1 minggu mengulang css3
 - 2 minggu belajar javascript
 Selanjutnya yang saya akn pelajari:
 - jaringan dan ip address
