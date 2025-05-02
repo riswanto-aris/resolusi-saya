@@ -9,3 +9,5 @@ Selanjutnya yang saya akn pelajari:
 - MySql
 - Database
 - Python
+- UI/UX design
+- dasar struktur data
